@@ -1,0 +1,410 @@
+{
+  "sub-01": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-01/anat/sub-01_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-01/func/sub-01_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-01/func/sub-01_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-01/func/sub-01_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-01/func/sub-01_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-01/eeg/EEG_data_sub-01_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-01/eeg/EEG_data_sub-01_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-01/eeg/EEG_events_sub-01_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-01/eeg/EEG_events_sub-01_run-02.mat"
+    ]
+  },
+  "sub-02": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-02/anat/sub-02_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-02/func/sub-02_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-02/func/sub-02_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-02/func/sub-02_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-02/func/sub-02_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-02/eeg/EEG_data_sub-02_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-02/eeg/EEG_data_sub-02_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-02/eeg/EEG_events_sub-02_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-02/eeg/EEG_events_sub-02_run-02.mat"
+    ]
+  },
+  "sub-03": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-03/anat/sub-03_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-03/func/sub-03_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-03/func/sub-03_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-03/func/sub-03_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-03/func/sub-03_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-03/eeg/EEG_data_sub-03_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-03/eeg/EEG_data_sub-03_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-03/eeg/EEG_events_sub-03_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-03/eeg/EEG_events_sub-03_run-02.mat"
+    ]
+  },
+  "sub-04": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-04/anat/sub-04_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-04/func/sub-04_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-04/func/sub-04_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-04/func/sub-04_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-04/func/sub-04_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-04/eeg/EEG_data_sub-04_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-04/eeg/EEG_data_sub-04_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-04/eeg/EEG_events_sub-04_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-04/eeg/EEG_events_sub-04_run-02.mat"
+    ]
+  },
+  "sub-05": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-05/anat/sub-05_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-05/func/sub-05_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-05/func/sub-05_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-05/func/sub-05_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-05/func/sub-05_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-05/eeg/EEG_data_sub-05_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-05/eeg/EEG_data_sub-05_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-05/eeg/EEG_events_sub-05_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-05/eeg/EEG_events_sub-05_run-02.mat"
+    ]
+  },
+  "sub-06": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-06/anat/sub-06_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-06/func/sub-06_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-06/func/sub-06_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-06/func/sub-06_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-06/func/sub-06_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-06/eeg/EEG_data_sub-06_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-06/eeg/EEG_events_sub-06_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-06/eeg/EEG_events_sub-06_run-02.mat"
+    ]
+  },
+  "sub-07": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-07/anat/sub-07_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-07/func/sub-07_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-07/func/sub-07_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-07/func/sub-07_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-07/func/sub-07_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-07/eeg/EEG_data_sub-07_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-07/eeg/EEG_data_sub-07_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-07/eeg/EEG_events_sub-07_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-07/eeg/EEG_events_sub-07_run-02.mat"
+    ]
+  },
+  "sub-08": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-08/anat/sub-08_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-08/func/sub-08_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-08/func/sub-08_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-08/func/sub-08_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-08/func/sub-08_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-08/eeg/EEG_data_sub-08_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-08/eeg/EEG_data_sub-08_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-08/eeg/EEG_events_sub-08_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-08/eeg/EEG_events_sub-08_run-02.mat"
+    ]
+  },
+  "sub-09": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-09/anat/sub-09_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-09/func/sub-09_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-09/func/sub-09_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-09/func/sub-09_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-09/func/sub-09_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-09/eeg/EEG_data_sub-09_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-09/eeg/EEG_data_sub-09_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-09/eeg/EEG_events_sub-09_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-09/eeg/EEG_events_sub-09_run-02.mat"
+    ]
+  },
+  "sub-10": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-10/anat/sub-10_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-10/func/sub-10_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-10/func/sub-10_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-10/func/sub-10_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-10/func/sub-10_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-10/eeg/EEG_data_sub-10_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-10/eeg/EEG_data_sub-10_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-10/eeg/EEG_events_sub-10_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-10/eeg/EEG_events_sub-10_run-02.mat"
+    ]
+  },
+  "sub-11": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-11/anat/sub-11_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-11/func/sub-11_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-11/func/sub-11_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-11/func/sub-11_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-11/func/sub-11_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-11/eeg/EEG_data_sub-11_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-11/eeg/EEG_data_sub-11_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-11/eeg/EEG_events_sub-11_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-11/eeg/EEG_events_sub-11_run-02.mat"
+    ]
+  },
+  "sub-12": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-12/anat/sub-12_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-12/func/sub-12_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-12/func/sub-12_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-12/func/sub-12_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-12/func/sub-12_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-12/eeg/EEG_data_sub-12_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-12/eeg/EEG_data_sub-12_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-12/eeg/EEG_events_sub-12_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-12/eeg/EEG_events_sub-12_run-02.mat"
+    ]
+  },
+  "sub-13": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-13/anat/sub-13_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-13/func/sub-13_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-13/func/sub-13_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-13/func/sub-13_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-13/func/sub-13_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-13/eeg/EEG_data_sub-13_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-13/eeg/EEG_data_sub-13_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-13/eeg/EEG_events_sub-13_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-13/eeg/EEG_events_sub-13_run-02.mat"
+    ]
+  },
+  "sub-14": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-14/anat/sub-14_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-14/func/sub-14_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-14/func/sub-14_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-14/func/sub-14_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-14/func/sub-14_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-14/eeg/EEG_data_sub-14_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-14/eeg/EEG_data_sub-14_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-14/eeg/EEG_events_sub-14_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-14/eeg/EEG_events_sub-14_run-02.mat"
+    ]
+  },
+  "sub-15": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-15/anat/sub-15_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-15/func/sub-15_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-15/func/sub-15_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-15/func/sub-15_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-15/func/sub-15_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-15/eeg/EEG_data_sub-15_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-15/eeg/EEG_data_sub-15_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-15/eeg/EEG_events_sub-15_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-15/eeg/EEG_events_sub-15_run-02.mat"
+    ]
+  },
+  "sub-16": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-16/anat/sub-16_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-16/func/sub-16_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-16/func/sub-16_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-16/func/sub-16_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-16/func/sub-16_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-16/eeg/EEG_data_sub-16_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-16/eeg/EEG_data_sub-16_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-16/eeg/EEG_events_sub-16_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-16/eeg/EEG_events_sub-16_run-02.mat"
+    ]
+  },
+  "sub-17": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-17/anat/sub-17_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-17/func/sub-17_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-17/func/sub-17_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-17/func/sub-17_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-17/func/sub-17_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-17/eeg/EEG_data_sub-17_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-17/eeg/EEG_data_sub-17_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-17/eeg/EEG_events_sub-17_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-17/eeg/EEG_events_sub-17_run-02.mat"
+    ]
+  },
+  "sub-18": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-18/anat/sub-18_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-18/func/sub-18_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-18/func/sub-18_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-18/func/sub-18_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-18/func/sub-18_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-18/eeg/EEG_data_sub-18_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-18/eeg/EEG_data_sub-18_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-18/eeg/EEG_events_sub-18_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-18/eeg/EEG_events_sub-18_run-02.mat"
+    ]
+  },
+  "sub-19": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-19/anat/sub-19_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-19/func/sub-19_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-19/func/sub-19_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-19/func/sub-19_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-19/func/sub-19_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-19/eeg/EEG_data_sub-19_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-19/eeg/EEG_data_sub-19_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-19/eeg/EEG_events_sub-19_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-19/eeg/EEG_events_sub-19_run-02.mat"
+    ]
+  },
+  "sub-20": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-20/anat/sub-20_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-20/func/sub-20_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-20/func/sub-20_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-20/func/sub-20_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-20/func/sub-20_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-20/eeg/EEG_data_sub-20_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-20/eeg/EEG_data_sub-20_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-20/eeg/EEG_events_sub-20_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-20/eeg/EEG_events_sub-20_run-02.mat"
+    ]
+  },
+  "sub-21": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-21/anat/sub-21_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-21/func/sub-21_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-21/func/sub-21_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-21/func/sub-21_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-21/func/sub-21_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-21/eeg/EEG_data_sub-21_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-21/eeg/EEG_data_sub-21_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-21/eeg/EEG_events_sub-21_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-21/eeg/EEG_events_sub-21_run-02.mat"
+    ]
+  },
+  "sub-22": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-22/anat/sub-22_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-22/func/sub-22_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-22/func/sub-22_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-22/func/sub-22_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-22/func/sub-22_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-22/eeg/EEG_data_sub-22_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-22/eeg/EEG_data_sub-22_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-22/eeg/EEG_events_sub-22_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-22/eeg/EEG_events_sub-22_run-02.mat"
+    ]
+  },
+  "sub-23": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-23/anat/sub-23_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-23/func/sub-23_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-23/func/sub-23_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-23/func/sub-23_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-23/func/sub-23_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-23/eeg/EEG_data_sub-23_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-23/eeg/EEG_data_sub-23_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-23/eeg/EEG_events_sub-23_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-23/eeg/EEG_events_sub-23_run-02.mat"
+    ]
+  },
+  "sub-24": {
+    "anat": [
+      "data/raw/ds002739-1.0.0/sub-24/anat/sub-24_run-01_T1map.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-24/anat/sub-24_run-02_T1map.nii.gz"
+    ],
+    "func": [
+      "data/raw/ds002739-1.0.0/sub-24/func/sub-24_task-main_run-01_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-24/func/sub-24_task-main_run-02_bold.nii.gz",
+      "data/raw/ds002739-1.0.0/sub-24/func/sub-24_task-main_run-01_events.tsv",
+      "data/raw/ds002739-1.0.0/sub-24/func/sub-24_task-main_run-02_events.tsv"
+    ],
+    "eeg": [
+      "data/raw/ds002739-1.0.0/sub-24/eeg/EEG_data_sub-24_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-24/eeg/EEG_data_sub-24_run-02.mat",
+      "data/raw/ds002739-1.0.0/sub-24/eeg/EEG_events_sub-24_run-01.mat",
+      "data/raw/ds002739-1.0.0/sub-24/eeg/EEG_events_sub-24_run-02.mat"
+    ]
+  }
+}
